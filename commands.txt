@@ -1,0 +1,12 @@
+# Initialied the node project
+node init 
+
+# Install express concurrently
+npm i express concurrently
+
+# Install nodemon : Constantly watching development env
+npm i nodemon --save-dev
+
+# Install react app creator
+sudo npm i -g create-react-app
+create-react-app client
